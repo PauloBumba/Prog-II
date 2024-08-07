@@ -1,0 +1,2 @@
+$nome = "Paulo";
+echo($nome);
